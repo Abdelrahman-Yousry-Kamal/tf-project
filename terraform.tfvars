@@ -1,0 +1,1 @@
+bucket_name = "abdelrahman-terraform-s3-2026"
